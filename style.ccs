@@ -1,1 +1,7 @@
-a
+h1 {
+       color: beige;
+       background-color: darkblue;
+} 
+ .texto {
+  color: darkred;
+ }
