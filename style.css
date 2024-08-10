@@ -2,7 +2,10 @@ h1 {
        color: beige;
        background-color: darkblue;
 } 
-
-.texto {
-       color: darkred;
+ .texto {
+  color: darkred;
  }
+       
+ p {
+  padding: 0 0 0 80px;
+ }     
