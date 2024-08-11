@@ -22,8 +22,9 @@ text-align: center;
  }
 
 a {
-  background-color: blue;
+  background-color: steelblue;
   color: white;
+  font-size: bold;
   padding: 15px 25px;
   text-decoration: none;
   border-radius: 25px;
