@@ -6,7 +6,6 @@ h1 {
 
 body {
 text-align: center;
-background-image: https://img.freepik.com/vector-gratis/fondo-escritorio-moderno-vector-diseno-azul-geometrico_53876-135923.jpg?size=626&ext=jpg&ga=GA1.1.2008272138.1723334400&semt=ais_hybrid;
 }
 
 #Bienvenida {
@@ -29,4 +28,8 @@ a {
   padding: 15px 25px;
   text-decoration: none;
   border-radius: 25px;
+}
+
+div {
+background-image: url('https://img.freepik.com/vector-gratis/fondo-escritorio-moderno-vector-diseno-azul-geometrico_53876-135923.jpg')
 }
